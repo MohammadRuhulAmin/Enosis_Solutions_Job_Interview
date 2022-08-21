@@ -1,0 +1,3 @@
+
+Write a program to check a Number is Palindrom or Not .
+
